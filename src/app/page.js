@@ -10,6 +10,7 @@ export default function Home() {
     <main className="bg-gradient-to-b from-black to-gray-900 ">
       <Navbar />
       <About />
+      <Portfolio />
     </main>
   )
 }
